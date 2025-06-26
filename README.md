@@ -28,13 +28,13 @@ The Customer Survey form is a React.js application for collecting customer feedb
 To get started with the Customer-Survey project, follow these steps:
 
 # Clone the Repository:
-(git clone https://github.com/username/customer-survey.git)
+git clone https://github.com/username/customer-survey.git
 
 # Navigate to the Project Directory:
-(cd customer-survey)
+cd customer-survey
 
 # Install Dependencies: Make sure you have Node.js and npm installed. Then run:
- (npm install)
+ npm install
 
 # Set Up Environment Variables: Create a .env file in the root directory and add the following variables:
 
@@ -48,11 +48,13 @@ To run the Customer-Survey application locally, follow these steps:
 Start the Development Server:
 
  npm start
+ 
 This will start the development server and open the application in your default web browser at http://localhost:3000.
 
 # Build for Production: To create a production build of the application, use:
 
  npm run build
+ 
 The production build will be available in the build directory.
 
 # Run Tests: To run the unit tests and ensure the application is functioning as expected:
@@ -63,13 +65,17 @@ The production build will be available in the build directory.
 To configure the application, update the configuration files as follows:
 
 ~ .env: Update the .env file to include your API URL and any other environment-specific variables.
+
 src/config/theme.js: Modify the theme settings to customize the appearance of your surveys.
+
 Refer to the Configuration Guide for detailed instructions on configuring different aspects of the application.
 
 
 # Contact
 For questions,  or feedback, please contact:
+
 Email: tyagiriya517@gmail.com
+
 Feel free to customize and expand upon this README based on any additional features or specific details related to your project.
 
 
