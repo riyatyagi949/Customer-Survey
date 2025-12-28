@@ -14,29 +14,29 @@ The Customer Survey form is a React.js application for collecting customer feedb
 5.Contact
 
 # Features
-        User-Friendly Survey Creation: Intuitive interface for creating surveys with multiple question types including multiple choice, text input, and ratings.
+    1)    User-Friendly Survey Creation: Intuitive interface for creating surveys with multiple question types including multiple choice, text input, and ratings.
 
-        Customizable Themes: Easily change the appearance of the survey with customizable themes.
+    2)    Customizable Themes: Easily change the appearance of the survey with customizable themes.
 
-        Responsive Design: Fully responsive design ensures a seamless experience on all devices, from desktops to smartphones.
+    3)   Responsive Design: Fully responsive design ensures a seamless experience on all devices, from desktops to smartphones.
 
-        Data Export: Export survey data in CSV format for further analysis.
+    4)   Data Export: Export survey data in CSV format for further analysis.
 
-        User Authentication: Secure user authentication and authorization for managing surveys and viewing results.
+    5)   User Authentication: Secure user authentication and authorization for managing surveys and viewing results.
 
 # Installation
 To get started with the Customer-Survey project, follow these steps:
 
-# Clone the Repository:
+1) Clone the Repository:
             git clone https://github.com/username/customer-survey.git
 
-# Navigate to the Project Directory:
+2) Navigate to the Project Directory:
            cd customer-survey
 
-# Install Dependencies: Make sure you have Node.js and npm installed. Then run:
+3) Install Dependencies: Make sure you have Node.js and npm installed. Then run:
            npm install
 
-# Set Up Environment Variables: Create a .env file in the root directory and add the following variables:
+4) Set Up Environment Variables: Create a .env file in the root directory and add the following variables:
 
                         (REACT_APP_API_URL=https://api.yourdomain.com)
 
@@ -49,7 +49,7 @@ To run the Customer-Survey application locally, follow these steps:
 
                  npm start
  
-         This will start the development server and open the application in your default web browser at http://localhost:3000.
+   This will start the development server and open the application in your default web browser at http://localhost:3000.
 
 2) Build for Production: To create a production build of the application, use:
 
